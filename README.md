@@ -11,4 +11,4 @@ The Odin Recipes project is a basic HTML web page that displays links to various
 
 Overall, the Odin Recipes project provided a good introduction to HTML and basic web page development, and helped me gain a better understanding of how to structure and create basic web pages.
 
-**NOTE** : This project was completed as an assignment during my enrollment in "The Odin Project" course._
+**NOTE** : _This project was completed as an assignment during my enrollment in "The Odin Project" course._
